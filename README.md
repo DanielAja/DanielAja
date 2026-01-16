@@ -3,6 +3,5 @@ Hey, <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba
 </h2>
 
 <p align=center>  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanielAja&show_icons=true&include_all_commits=true&hide_border=true" alt="Anurag's github stats" />| 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAja&layout=compact&hide_border=true" />
+ Let's build.
 </p>
